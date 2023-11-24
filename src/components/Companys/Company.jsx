@@ -1,5 +1,5 @@
 import React from 'react'
-import './company.css'
+import './Company.css'
 
 const Company = () => {
   return (
