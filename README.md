@@ -3,12 +3,6 @@
 ## 🏡 Project Overview
 This project presents the **frontend view** of a real estate company web application. It features a beautifully designed UI with **Tailwind CSS animations** for an engaging user experience.
 
-##🔗 Live Demo
-Real Estate Web App - Live
-
-## 📸 Screenshots
-![Preview](https://via.placeholder.com/800x400.png?text=App+Screenshot)
-
 ## 🚀 Features
 ✅ Beautiful and responsive UI design  
 ✅ Smooth Tailwind CSS card animations  
